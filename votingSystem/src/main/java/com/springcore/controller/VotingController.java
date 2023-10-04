@@ -9,7 +9,7 @@ import com.springcore.service.VotingService;
 public class VotingController {
 
 	
-	private VotingService votingService = new VotingService();
+    private VotingService votingService = new VotingService();
     private Scanner scanner = new Scanner(System.in);
 
     public void run() {
